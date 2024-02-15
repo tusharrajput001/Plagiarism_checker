@@ -14,7 +14,7 @@ FUNCTIONS IN THIS PLAGIARISM CHECKER:
 5. In Report you can see in breif how much content is found on websites or source links given in report.  <br><br>
 
 
-INSTRUCTIONS:
+INSTRUCTIONS:<br><br>
 ** IMPORTANT :  if code will give u an error on import of docx so run this cmd in terminal --> pip install --force-reinstall python-docx  <br>
 Make sure u have selected Python - 3.11.4 version<br>
 Make sure to install all requirements packages, mentioned in "requirements.txt"<br>
